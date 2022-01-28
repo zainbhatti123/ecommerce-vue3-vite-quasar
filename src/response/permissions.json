@@ -1,0 +1,34 @@
+{
+    "permissions": [
+        {
+            "role": "admin",
+            "permissions": {
+                "dashboard": true,
+                "profile": true,
+                "settings": false,
+                "order_placement": true,
+                "users": false
+            }
+        },
+        {
+            "role": "user",
+            "permissions": {
+                "dashboard": false,
+                "profile": false,
+                "settings": false,
+                "order_placement": true,
+                "users": false
+            }
+        },
+        {
+            "role": "super_admin",
+            "permissions": {
+                "order_placement": false,
+                "dashboard": true,
+                "profile": true,
+                "settings": true,
+                "users": true
+            }
+        }
+    ]
+}

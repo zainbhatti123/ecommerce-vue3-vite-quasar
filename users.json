@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "email": "ejazkhan@gmail.com",
+      "password": "$2a$10$U3qsVor7WSB2DSPrkgJpmuCXXn8cvUf3IVkcJXvlwSApUJGfE4ikO",
+      "name": "Zain Ejaz",
+      "role": "super_admin",
+      "id": "dfFg6XX"
+    },
+    {
+      "email": "ahsan@shopping.com",
+      "password": "$2a$10$KSd9PyZBhcr4fT4IvvpeTuIM2bHZasZcTP4RC8Xf4gNcSCZTNvJb6",
+      "name": "Ahsan Chaudary",
+      "role": "super_admin",
+      "id": "7kmMz5w"
+    },
+    {
+      "email": "sajeel@google.com",
+      "password": "$2a$10$7IptEaN8zQvJbTcWKluf0OxQbwaIi/N4A2iTQGlY59HrRr5sUuIkO",
+      "name": "Sajeel khan",
+      "role": "super_admin",
+      "id": "TUnllAK"
+    },
+    {
+      "email": "super.admin@shopping.com",
+      "password": "$2a$10$vggPCR2vqfl7mX1DbP1dxuN3I5XMFR8ZPjL7VuhbJbdRThgGuOm5u",
+      "name": "Hasnain Ali Baloch",
+      "role": "super_admin",
+      "id": "KAoLRZo"
+    },
+    {
+      "email": "admin@shopping.com",
+      "password": "$2a$10$hOjew6LHu8VugLADApaqdOibmCPmNb9Cccah.DVTTQno.Q2cPqTuq",
+      "name": "Abdul rehman",
+      "role": "admin",
+      "id": "IB2Tnkf"
+    },
+    {
+      "email": "admin@somewhere.com",
+      "password": "$2a$10$OuON/SDYHPwL3/5pmro0MOBLk.ss/M5crforcRjastI7aG9BoCSfG",
+      "name": "Ahsan Ali",
+      "role": "admin",
+      "id": "nhLqLB8"
+    },
+    {
+      "email": "zain@gmail.com",
+      "password": "$2a$10$XCU8I63sWIzBNllDEqGUy.V9LvSY4mvcijkKzAWeiHPDv/R60gqeS",
+      "name": "Zain Bhatti",
+      "role": "super_admin",
+      "id": "jcAfAJp"
+    }
+  ]
+}

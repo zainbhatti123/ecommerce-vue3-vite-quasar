@@ -1,0 +1,15 @@
+.q-card > img{
+    max-height: 261px;
+}
+.page-overlay{
+    position: fixed;
+    background-color: rgba(0 0 0 / .4);
+    inset: 0;
+    z-index: 1999;
+}
+.q-table th{
+    font-size: 1rem;
+}
+.q-table tbody td{
+    font-size: .9rem;
+}

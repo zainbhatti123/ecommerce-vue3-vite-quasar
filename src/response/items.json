@@ -1,0 +1,100 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "title": "Adidas Shoes",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/4e894c2b76dd4c8e9013aafc016047af_9366/Superstar_Shoes_White_FV3284_01_standard.jpg",
+            "less_price": 10000,
+            "quantity": 4,
+            "currency": "Rs",
+            "discount": "50%",
+            "item_in_cart": false,
+            "fixed_price": 5000
+        },
+        {
+            "id": 2,
+            "title": "Adidas Shirts",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "img": "https://photos6.spartoo.eu/photos/178/17830632/17830632_500_A.jpg",
+            "less_price": 5000,
+            "quantity": 100,
+            "currency": "Rs",
+            "discount": "25%",
+            "item_in_cart": false,
+            "fixed_price": 3500
+        },
+        {
+            "id": 3,
+            "title": "Adidas Trousers",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/03bb272c51d748f59e8eacbb0121bdb7_9366/Essentials_French_Terry_Tapered-Cuff_3-Stripes_Pants_Blue_GK8823_21_model.jpg",
+            "less_price": 5000,
+            "quantity": 0,
+            "currency": "Rs",
+            "discount": "25%",
+            "item_in_cart": false,
+            "fixed_price": 3500
+        },
+        {
+            "id": 4,
+            "title": "Adidas Slippers",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/d5cf71fa86244d68ba60a83b01818fcd_9366/Adilette_Shower_Slides_White_AQ1702_01_standard.jpg",
+            "less_price": 1000,
+            "quantity": 35,
+            "currency": "Rs",
+            "discount": "70%",
+            "item_in_cart": false,
+            "fixed_price": 300
+        },
+        {
+            "id": 5,
+            "title": "Nike Shoes",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/jvcf7clhvzyavyopsi9n/revolution-5-road-running-shoes-7TKVTL.png",
+            "less_price": 10000,
+            "quantity": 6,
+            "currency": "Rs",
+            "discount": "50%",
+            "item_in_cart": false,
+            "fixed_price": 5000
+        },
+        {
+            "id": 6,
+            "title": "Nike Shirts",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "img": "https://slimages.macysassets.com/is/image/MCY/products/0/optimized/11231040_fpx.tif?op_sharpen=1&wid=700&hei=855&fit=fit,1",
+            "less_price": 5000,
+            "quantity": 46,
+            "currency": "Rs",
+            "discount": "25%",
+            "item_in_cart": false,
+            "fixed_price": 3500
+        },
+        {
+            "id": 7,
+            "title": "Nike Trousers",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/fcbfac5d-e609-4bba-bbdc-f58f3d09cbc1/pro-fleece-trousers-h3r3wq.png",
+            "less_price": 5000,
+            "quantity": 9,
+            "currency": "Rs",
+            "discount": "25%",
+            "item_in_cart": false,
+            "fixed_price": 3500
+        },
+        {
+            "id": 8,
+            "title": "Nike Slippers",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "img": "https://dexstitches.com/image/cache/catalog/1145-1080x1440.jpeg",
+            "less_price": 1000,
+            "quantity": 10,
+            "currency": "Rs",
+            "discount": "70%",
+            "item_in_cart": false,
+            "fixed_price": 300
+        }
+    ]
+}
